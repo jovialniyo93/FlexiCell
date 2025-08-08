@@ -3,7 +3,7 @@
 ![Opencv-python](https://img.shields.io/badge/OpenCV-V4.8.0.76-brightgreen)
 ![pandas](https://img.shields.io/badge/Pandas-V1.4.2-ff69b4)
 ![numpy](https://img.shields.io/badge/%E2%80%8ENumpy-V1.20.2-success)
-![releasedate](https://img.shields.io/badge/release%20date-October%2024-red)
+![releasedate](https://img.shields.io/badge/release%20date-August%2025-red)
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 # FlexiCell: Deep Learning with Learnable Adaptive Filtering and Dual Attention for Cell Segmentation #
