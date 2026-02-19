@@ -6,9 +6,10 @@
 ![releasedate](https://img.shields.io/badge/release%20date-August%2025-red)
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
-# FlexiCell: Deep Learning with Learnable Adaptive Filtering and Dual Attention for Cell Segmentation #
 
-The code in this repository is supplementary to our future publication ***FlexiCell: Deep Learning with Learnable Adaptive Filtering and Dual Attention for Cell Segmentation*** 
+# [FlexiCell: Deep Learning with Learnable Adaptive Filtering and Dual Attention for Cell Segmentation](https://doi.org/10.1109/BIBM66473.2025.11357075)
+
+The code in this repository is supplementary to our publication **FlexiCell: Deep Learning with Learnable Adaptive Filtering and Dual Attention for Cell Segmentation** 
 
   <div align="center">
     <img src="visualize.gif", width="600">
@@ -228,6 +229,16 @@ Shenzhen Institute of Advanced Tech., CAS
 Address: 1068 Xueyuan Blvd., Shenzhen, Guangdong, China
 Postcode: 518055
 jovialniyo93@gmail.com
+
+**Citation Request:** 
+
+If you find our work useful in your research, please consider citing:
+
+Niyogisubizo, J., Zhao, K., Zhou, S., Han, R., Meng, J., Xi, W., & Wei, Y. (2025, December). FlexiCell: Deep Learning with Learnable Adaptive Filtering and Dual Attention for Cell Segmentation. In 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 3851-3956). IEEE.
+https://doi.org/10.1109/BIBM66473.2025.11357075
+
+>[Online Published Paper](https://doi.org/10.1109/BIBM66473.2025.11357075)
+
 
 ## License ##
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
